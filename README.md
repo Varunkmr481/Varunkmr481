@@ -42,8 +42,8 @@ Hello! I'm a passionate developer who loves building web applications, learning 
 | Project                          | Description                                                       | Link                                       |
 |----------------------------------|-------------------------------------------------------------------|--------------------------------------------|
 | Natours                          | A nature tour booking app featuring maps, auth, and responsiveness.| [GitHub](https://github.com/varunkmr481/Natours) |
-| Fast React Pizza Co              | A fast React-based pizza ordering app for seamless user experience.| [GitHub](https://github.com/Varunkmr481/fast-react-pizza-co) |
+| Wild Oasis                       | A Hotel booking app with interactive UI, data fetching, and filtering.| [GitHub](https://github.com/Varunkmr481/The-Wild-Oasis) |
 | Worldwise                        | A travel logging app to track locations with map integration.      | [GitHub](https://github.com/Varunkmr481/worldwise) |
-
+| Fast React Pizza Co              | A fast React-based pizza ordering app for seamless user experience.| [GitHub](https://github.com/Varunkmr481/fast-react-pizza-co) |
 
 
