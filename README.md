@@ -1,9 +1,9 @@
 <div align="center">
   
 # Hey! I'm Varun Kumar 😊👋
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+
+  <a href="mailto:varunkmr4160@gmail.com">varunkmr4160@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/varun-kumar-4053a0169/">LinkedIn</a> 
 
 ## PROFILE 📱
 </div>
