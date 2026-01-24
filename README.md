@@ -3,7 +3,7 @@
 # Hey! I'm Varun Kumar 😊👋
 
   <a href="mailto:varunkmr4160@gmail.com">varunkmr4160@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/varun-kumar-4053a0169/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/varunkumar481/">LinkedIn</a> 
 
 ## PROFILE 📱
 </div>
