@@ -41,6 +41,7 @@ Hello! I'm a passionate developer who loves building web applications, learning 
 
 | Project                          | Description                                                       | Link                                       |
 |----------------------------------|-------------------------------------------------------------------|--------------------------------------------|
+| Focuspilot - AI Powered Productivity tracker   | A AI powered productivity tracker with pomodoro, calender for planning the day, interactive dashboards| [GitHub](https://github.com/Varunkmr481/Focuspilot) |
 | Natours                          | A nature tour booking app featuring maps, auth, and responsiveness.| [GitHub](https://github.com/varunkmr481/Natours) |
 | Wild Oasis                       | A Hotel booking app with interactive UI, data fetching, and filtering.| [GitHub](https://github.com/Varunkmr481/The-Wild-Oasis) |
 | Worldwise                        | A travel logging app to track locations with map integration.      | [GitHub](https://github.com/Varunkmr481/worldwise) |
