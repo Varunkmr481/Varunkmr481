@@ -2,8 +2,9 @@
   
 # Hey! I'm Varun Kumar 😊👋
 
-  <a href="mailto:varunkmr4160@gmail.com">varunkmr4160@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/varunkumar481/">LinkedIn</a> 
+  <a href="mailto:kmrvarun481@gmail.com">kmrvarun481@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/varunkumar481/">LinkedIn</a> |
+  <a href="https://kumar-varun.netlify.app/">Portfolio</a>
 
 ## PROFILE 📱
 </div>
